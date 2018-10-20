@@ -1,16 +1,16 @@
 ## GoodPeoples
 
 ### App Description
-// TODO: Add App Description
+Designed to provide users with the information of locations of morally righteous centers in order to help the planet and population. Include: Recycling centers, e-waste drives, clothing drives, food drives
 
 ### App Idea Evaluation
 // TODO: Evaluate app across the following categories using the App Evaluation Protocol.
 
-- Mobile:
-- Story:
-- Market:
-- Habit:
-- Scope:
+- Mobile: Mobile device will be the main interface to explore and upload
+- Story:  Regardless of skin, race, religion we are all blood and guts and deserve the basic necesities us all humans need.
+- Market: Users looking for particular centers in order to donate their used items
+- Habit:  Items are always constantly needing to be recycled.
+- Scope:  Organizations can input the locations of their events (ex: high school e-waste drives)
 
 ---
 
