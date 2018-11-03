@@ -17,11 +17,40 @@ Designed to provide users with the information of locations of morally righteous
 ### User Stories
 // TODO: Enumerate User Stories
 1. User can...
+* Register
+* Log in 
+* Search for centers
+* follow centers
+* upload information about their events
+
+## Screen Archetypes
+* WELCOME screen
+* Log-in
+* Stream
+* Search
+* Post
+* Profile
+
+## Navigation
+* WELCOME screen
+  * log-in
+ * Log-in
+   * stream
+* Stream
+* Search
+  * listings
+    * details
+ * Post
+  * stream
+* Profile
+  * stream
+
 
 ---
 
 ### Wireframes
 // TODO: Add Wireframe Images
+
 
 ---
 
